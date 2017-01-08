@@ -7,24 +7,15 @@
     using Microsoft.AspNetCore.Mvc;
 
     /// <summary>
-    /// Home controller
+    /// About Us Controller
     /// </summary>
-    public class HomeController : Controller
+    public class AboutUsController : Controller
     {
         /// <summary>
-        /// Index action
+        /// Index Action
         /// </summary>
-        /// <returns>Index view</returns>
+        /// <returns>Index View</returns>
         public IActionResult Index()
-        {
-            return this.View();
-        }
-
-        /// <summary>
-        /// Error Action
-        /// </summary>
-        /// <returns>Error View</returns>
-        public IActionResult Error()
         {
             return this.View();
         }
