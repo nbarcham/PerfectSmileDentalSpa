@@ -19,7 +19,10 @@ var paths = {
     minCss: webroot + "css/**/*.min.css",
     jsSource: [
         webroot + "js/site.js",
-        webroot + "js/script.js"
+        webroot + "js/script.js",
+        webroot + "js/core.js",
+        webroot + "js/html5shiv.js",
+        webroot + "js/pointer-events.js"
     ],
     cssSource: [
         webroot + "css/site.css",
