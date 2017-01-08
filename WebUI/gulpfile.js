@@ -18,10 +18,12 @@ var paths = {
     css: webroot + "css/**/*.css",
     minCss: webroot + "css/**/*.min.css",
     jsSource: [
-        webroot + "js/site.js"
+        webroot + "js/site.js",
+        webroot + "js/script.js"
     ],
     cssSource: [
-        webroot + "css/site.css"
+        webroot + "css/site.css",
+        webroot + "css/style.css"
     ]
 };
 
