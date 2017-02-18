@@ -9,7 +9,7 @@
     /// <summary>
     /// About Us Controller
     /// </summary>
-    public class AboutUsController : Controller
+    public class OurTeamController : Controller
     {
         /// <summary>
         /// Index Action

@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /**
 * Template Style
 *
@@ -707,7 +707,7 @@ a.text-danger:focus {
 }
 
 .bg-primary {
-  background-color: #0095e5;
+  background-color: #cce7ff;
 }
 
 a.bg-primary:hover,
@@ -28904,7 +28904,7 @@ h3 + .countdown {
 */
 .rd-navbar {
   display: none;
-  background: #fff;
+  background: #cce7ff;
   box-shadow: none;
 }
 
@@ -29549,7 +29549,7 @@ h3 + .countdown {
   position: relative;
   display: block;
   padding: 10px;
-  color: #0095e5;
+  color: #a6a6a6;
   background: transparent;
   line-height: 1.2;
   font-size: 20px;
@@ -29651,7 +29651,7 @@ h3 + .countdown {
 
 .rd-navbar-static ul.rd-navbar-nav > li.active > a,
 .rd-navbar-fullwidth ul.rd-navbar-nav > li.active > a {
-  color: #616262;
+  color: #616262;   
   background: transparent;
 }
 
@@ -29843,7 +29843,7 @@ h3 + .countdown {
 .rd-navbar-static .rd-navbar-dropdown > li > a,
 .rd-navbar-fullwidth .rd-navbar-dropdown > li > a {
   display: block;
-  color: #0095e5;
+  color:  #a6a6a6;
   background: transparent;
 }
 
